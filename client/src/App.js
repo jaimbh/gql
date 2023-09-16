@@ -30,7 +30,7 @@ export default function App() {
 		<div className="container p-5">
 			<div className="d-flex justify-content-between align-items-center">
 				<h3 className="mb-0">Todos</h3>
-				<a href="http://192.168.11.128:8000/graphql" target="_blank">
+				<a href="http://192.168.11.128:8000/graphql" target="_blank" rel="noreferrer">
 					<button className="btn btn-primary">GraphQL</button>
 				</a>
 			</div>
