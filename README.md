@@ -42,3 +42,5 @@ add "client": "cd client && npm start",
 	to /package.json scripts
 
 npm run dev
+
+access [ip]:8000/graphql
