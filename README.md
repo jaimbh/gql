@@ -24,7 +24,7 @@ npm i @babel/plugin-proposal-private-property-in-object @babel/plugin-transform-
 
 replace public and src dir with the ones in the renamed client dir
 
-change uri ip in src/index.js
+change uri ip in src/index.js and href ip in src/App.js
 
 cd ..
 
@@ -42,5 +42,3 @@ add "client": "cd client && npm start",
 	to /package.json scripts
 
 npm run dev
-
-access [ip]:8000/graphql
